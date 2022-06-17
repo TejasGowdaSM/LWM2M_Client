@@ -1,0 +1,2 @@
+# Configure icarus board to use the external sim instead of esim
+CONFIG_BOARD_SELECT_SIM_EXTERNAL=y
